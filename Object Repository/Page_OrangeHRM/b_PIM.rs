@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_PIM</name>
+   <tag></tag>
+   <elementGuidId>70dd35c6-77d3-4839-995e-e619f52554cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#menu_pim_viewPimModule > b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='menu_pim_viewPimModule']/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>80faffcf-7211-4d3c-9a9f-8c157d4540f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PIM</value>
+      <webElementGuid>cf6e1c7d-fed4-49f5-8cbc-c351b590ba8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu_pim_viewPimModule&quot;)/b[1]</value>
+      <webElementGuid>1d4bfe06-5486-473f-9bdc-4e48426deb0d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='menu_pim_viewPimModule']/b</value>
+      <webElementGuid>38050ee2-40f9-497a-9b8e-ca924ae9a285</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register OAuth Client'])[1]/following::b[1]</value>
+      <webElementGuid>5bb02d33-6719-4af2-8ce5-3f9eab6bf31f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Social Media Authentication'])[1]/following::b[1]</value>
+      <webElementGuid>225def1a-a1ca-4eeb-b343-d98974cabaec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Optional Fields'])[1]/preceding::b[1]</value>
+      <webElementGuid>a6385b4c-523f-4fcf-8d52-936e6b9255a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Custom Fields'])[1]/preceding::b[1]</value>
+      <webElementGuid>519f3565-6aaf-4ffb-a5fa-14a6e49a5610</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PIM']/parent::*</value>
+      <webElementGuid>16cdd0b8-cbf5-45e5-bc46-9bbec0299cbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/b</value>
+      <webElementGuid>445f632b-2db0-4d71-b4c6-a35b2267a595</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'PIM' or . = 'PIM')]</value>
+      <webElementGuid>87941c46-6521-4c73-97a3-deb5fcb2a1a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

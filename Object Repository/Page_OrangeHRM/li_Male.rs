@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Male</name>
+   <tag></tag>
+   <elementGuidId>4dc259db-903b-4480-b2f9-11e7f45a2677</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul.radio_list > li</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='frmEmpPersonalDetails']/fieldset/ol[3]/li/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>54c98b6f-42d7-4527-b91c-3dbf6a874dec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Male</value>
+      <webElementGuid>9fca25c2-7adf-4f25-8ed8-40cbd91b4a19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmEmpPersonalDetails&quot;)/fieldset[1]/ol[3]/li[@class=&quot;radio&quot;]/ul[@class=&quot;radio_list&quot;]/li[1]</value>
+      <webElementGuid>5f4cb4b3-1b9e-4b2a-877c-ade1013efbee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frmEmpPersonalDetails']/fieldset/ol[3]/li/ul/li</value>
+      <webElementGuid>a0bd81ba-cfdc-41d4-9c49-0c824ea99836</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gender'])[1]/following::li[1]</value>
+      <webElementGuid>8e343610-84f6-4a21-afc3-8d31a14c476b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SIN Number'])[1]/following::li[2]</value>
+      <webElementGuid>b4cd25b6-f88f-492c-87ea-546ec75f009f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Female'])[1]/preceding::li[1]</value>
+      <webElementGuid>83b28a5b-4999-4f2d-b7c0-ab8c16b61673</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ol[3]/li/ul/li</value>
+      <webElementGuid>18bd3d28-45b5-4227-a2a9-997381c245b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = ' Male' or . = ' Male')]</value>
+      <webElementGuid>febd5c97-d303-4cb8-a62b-973e82cd54fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

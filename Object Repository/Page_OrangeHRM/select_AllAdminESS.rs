@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_AllAdminESS</name>
+   <tag></tag>
+   <elementGuidId>cad5eca6-1cc0-4370-804e-8b76d3661769</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#searchSystemUser_userType</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='searchSystemUser_userType']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>acd15b59-4440-410a-9d40-628873dd6f76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>searchSystemUser[userType]</value>
+      <webElementGuid>30c01f2b-55d6-4ef8-b07e-1a83f1e3f47f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>searchSystemUser_userType</value>
+      <webElementGuid>ccaa2b69-0aa5-4925-b31b-6ffdad89140a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+All
+Admin
+ESS
+</value>
+      <webElementGuid>5437daee-1bf0-41db-af0d-242481d2d166</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;searchSystemUser_userType&quot;)</value>
+      <webElementGuid>91e6d1aa-453d-423a-9aa5-37fa25d52b14</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='searchSystemUser_userType']</value>
+      <webElementGuid>af84606d-5995-4ce6-90ca-c97300ab7408</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='search_form']/fieldset/ol/li[2]/select</value>
+      <webElementGuid>f315201a-ba11-42db-b0a4-5cdea457c21a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Role'])[1]/following::select[1]</value>
+      <webElementGuid>09e16078-f0ce-4a4d-9844-0d5c7d84ecd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/following::select[1]</value>
+      <webElementGuid>ef19dde2-3103-43b8-838c-bc921b783335</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee Name'])[1]/preceding::select[1]</value>
+      <webElementGuid>912abe8a-6807-4dee-805f-975efb45104d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/preceding::select[1]</value>
+      <webElementGuid>b6ca3fef-14c8-43a4-be77-7bf59318337c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>c07c7c68-1bcc-4b38-aae0-f5433d1b182f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'searchSystemUser[userType]' and @id = 'searchSystemUser_userType' and (text() = '
+All
+Admin
+ESS
+' or . = '
+All
+Admin
+ESS
+')]</value>
+      <webElementGuid>1c2dfe07-ab06-4211-9a61-8117f2b47d66</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Employee List</name>
+   <tag></tag>
+   <elementGuidId>d6b75578-d743-44fc-a6be-ceb710e3c2ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#menu_pim_viewEmployeeList</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='menu_pim_viewEmployeeList']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1edf5031-8759-457c-9cc3-412c23b23de3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/index.php/pim/viewEmployeeList/reset/1</value>
+      <webElementGuid>e1477dda-3810-4066-a7c4-df266b5c51b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>menu_pim_viewEmployeeList</value>
+      <webElementGuid>e4a97c3c-aa2f-41e3-8e6c-e5665602b64d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Employee List</value>
+      <webElementGuid>197f99bd-d389-4463-8669-c2f0b697cb36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu_pim_viewEmployeeList&quot;)</value>
+      <webElementGuid>99a2200f-5f63-4048-b72c-8e3f633c2c66</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='menu_pim_viewEmployeeList']</value>
+      <webElementGuid>53ad7714-7f6e-4dbb-af03-74016a38dc07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='mainMenuFirstLevelUnorderedList']/li[2]/ul/li[2]/a</value>
+      <webElementGuid>6749bc12-109c-4220-81ba-2efb22d60ab5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Employee List')]</value>
+      <webElementGuid>283a1cca-5aa2-4df9-bb96-ca26d6e41517</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Termination Reasons'])[1]/following::a[1]</value>
+      <webElementGuid>a3d6d88c-1514-4815-b079-7e896b3c47ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reporting Methods'])[1]/following::a[2]</value>
+      <webElementGuid>710842c6-923f-4b4b-a2e3-117ba79a1fbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Employee'])[1]/preceding::a[1]</value>
+      <webElementGuid>ef0ae8fb-8897-46af-9a5c-3ecd955ed0bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reports'])[1]/preceding::a[2]</value>
+      <webElementGuid>4c9aeabe-9c85-478d-be9d-fa3b028ab871</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Employee List']/parent::*</value>
+      <webElementGuid>54770c73-c468-4048-a8c5-26ba545a3bcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/index.php/pim/viewEmployeeList/reset/1')]</value>
+      <webElementGuid>96174435-faac-4886-a9fb-b23761099624</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li[2]/a</value>
+      <webElementGuid>21995da5-1336-440f-b0ef-d8e09941bd3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/index.php/pim/viewEmployeeList/reset/1' and @id = 'menu_pim_viewEmployeeList' and (text() = 'Employee List' or . = 'Employee List')]</value>
+      <webElementGuid>3ed505a0-b734-40b5-8b97-6b0bfa4e5ee6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
